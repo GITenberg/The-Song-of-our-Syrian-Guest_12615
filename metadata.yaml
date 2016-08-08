@@ -1,0 +1,26 @@
+_repo: The-Song-of-our-Syrian-Guest_12615
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knight, William Allen
+    birthdate: 1863
+    deathdate: 1957
+    gutenberg_agent_id: '4457'
+    url: http://www.gutenberg.org/2009/agents/4457
+description: 'The song of our Syrian guest / William Allen Knight -- Shepherd life
+  in Bible lands / George E. Post -- The singing pilgrim : a characterization of the
+  twenty-third Psalm / Henry Ward Beecher.'
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Psalms XXIII -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+- GITenberg
+title: The Song of our Syrian Guest
+url: http://www.gutenberg.org/ebooks/12615
